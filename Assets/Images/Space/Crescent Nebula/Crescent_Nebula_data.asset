@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a545bd74ea92da540ba8e864c3cfca32, type: 3}
+  m_Name: Crescent_Nebula_data
+  m_EditorClassIdentifier: 
+  s3DImage: {fileID: 11400000, guid: bbe3d740dbb7c4d4194e58e63d84f14f, type: 2}
+  width: 1509
+  height: 788
+  label: Crescent Nebula
+  author: J-P Metsavainio

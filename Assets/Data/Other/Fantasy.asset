@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe562f3138658749ba9a96d6d15a0a0, type: 3}
+  m_Name: Fantasy
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a831fef70d2b31b4daa1af44bd8dad67, type: 2}
+  label: Fantasy
+  id: 2
+  audioClips:
+  - {fileID: 8300000, guid: ff67d7d29916b264dba3b0a30816ef44, type: 3}
+  stereoscopicImages:
+  - {fileID: 11400000, guid: 1441fdb694f665f4b8ad461395011240, type: 2}
+  - {fileID: 11400000, guid: 3ac62c595fc79744b92bda263d14dde0, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe562f3138658749ba9a96d6d15a0a0, type: 3}
+  m_Name: Nature
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: f33feb8f8ca46e3439981d3e3f009d93, type: 2}
+  label: Nature
+  id: 3
+  audioClips:
+  - {fileID: 8300000, guid: ff67d7d29916b264dba3b0a30816ef44, type: 3}
+  stereoscopicImages:
+  - {fileID: 11400000, guid: dfbb43ac24af2e444a0e671a2fbe3d0b, type: 2}
+  - {fileID: 11400000, guid: 99903a14cadf46c4dbc515452ca112a5, type: 2}
+  - {fileID: 11400000, guid: 2ff32fabf0b689041a987393b44ad891, type: 2}
+  - {fileID: 11400000, guid: 1dae693877e6a1b48bf6be71ccc46506, type: 2}
+  - {fileID: 11400000, guid: 99e9d26790ba5b24a9e385af14a46458, type: 2}
+  - {fileID: 11400000, guid: 0bfeb4d677c0bb24c97f10c4d14849b4, type: 2}
+  - {fileID: 11400000, guid: f9ce274e8c2699c44ab662e7edc518d9, type: 2}
+  - {fileID: 11400000, guid: b0eeeb5efbf6ec844a503b8d0d5d3414, type: 2}
+  - {fileID: 11400000, guid: c3c837f41ec6285428b96bc5bb604320, type: 2}
+  - {fileID: 11400000, guid: b2b1287f7bdc6314b97d05974626ec63, type: 2}
+  - {fileID: 11400000, guid: 3bc46d2f40590cc4d8271004481b3853, type: 2}
